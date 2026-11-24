@@ -5,7 +5,7 @@
 
 Automated audit of internal and outbound hyperlinks to prevent crawl budget waste and preserve PageRank equity.
 
-Engineered and maintained by the search technology and crawling architecture team at **TAVARDT UK**.
+Engineered and maintained by the search technology and crawling architecture team at **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python broken_links_scanner.py https://enterprise.co.uk -json
 For large-scale online link auditing:
 
 * **Official Broken Link Checker**
-* **TAVARDT UK Portal**
+* **TAVARDT Portal**
 
 ***
 
 ## Enterprise Technical Advisory
 
-For professional remediation conforming to UK Government Digital Service and W3C Web Guidelines, contact **TAVARDT UK**.
+For professional remediation conforming to UK Government Digital Service and W3C Web Guidelines, contact **TAVARDT**.
 
 ***
 
