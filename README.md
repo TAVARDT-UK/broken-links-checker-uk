@@ -49,3 +49,7 @@ For large-scale online link auditing:
 ## Enterprise Technical Advisory
 
 For professional remediation conforming to UK Government Digital Service and W3C Web Guidelines, contact **TAVARDT UK**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
